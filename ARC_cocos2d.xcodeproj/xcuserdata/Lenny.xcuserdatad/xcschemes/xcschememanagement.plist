@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ARC_cocos2d.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Cocos2D-library.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>CocosBuilder.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>cocos2d-library.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>cocosBuilder.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B8C88ED31599EB5800A49B7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B8C890C71599EBFA00A49B7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B8C893191599EDDF00A49B7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B8C8A55A1599F24900A49B7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B8C8A56D1599F5E600A49B7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
